@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/424f8ee9-434c-47ae-aa84-b2928590af5a
 
 ### Pinout Diagram updated with VSDSQUADRON Mini
 <p align="center">
-  <img src="assets/Block diagram and Circuit connection (1)_page-0001.jpg" alt=" Pin diagram" width="800">
+  <img src="assets/Block diagram and Circuit connection (1)_page-0001 (1).jpg" alt=" Pin diagram" width="800">
 </p>
 
 ### VSDSQUADRON Mini Code  
